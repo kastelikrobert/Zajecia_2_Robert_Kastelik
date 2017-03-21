@@ -1,0 +1,5 @@
+﻿  Zadanie_1.cpp
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_2\zadanie_1\zadanie_1\zadanie_1.cpp(42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dokumenty\visual studio 2015\projects\gk\sprawozdania\grafika_1\zajecia_2\zadanie_1\zadanie_1\zadanie_1.cpp(43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zadanie_1.vcxproj -> E:\Dokumenty\Visual Studio 2015\Projects\GK\Sprawozdania\Grafika_1\Zajecia_2\Zadanie_1\Debug\Zadanie_1.exe
+  Zadanie_1.vcxproj -> E:\Dokumenty\Visual Studio 2015\Projects\GK\Sprawozdania\Grafika_1\Zajecia_2\Zadanie_1\Debug\Zadanie_1.pdb (Full PDB)
